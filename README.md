@@ -28,7 +28,7 @@
 
   J'attends impatiemment de trouver un stage pendant ma formation et par la suite entrer dans le monde de l emploie en tant que développeur 
 
-  Trois choses que j aime en travail d'équipe 
+  Trois choses que j aime en travail d'équipe. 
 
 1. l entre-aide
 2. la solidarité
